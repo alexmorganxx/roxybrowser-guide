@@ -13,9 +13,7 @@ RoxyBrowser is a desktop anti-detect browser that runs many fully isolated profi
 
 > ### Start free with 5 permanent profiles
 > RoxyBrowser's free plan never expires. Ready for a paid plan? Use code **`0328SAQA`** for **30% off**.
-> **[Get RoxyBrowser here →](https://mrait.ca/go/freebrowser)**
->
-> *Disclosure: the link above is an affiliate link. If you sign up through it we may earn a commission at no extra cost to you. We only recommend tools we would use ourselves.*
+> **<a href="https://mrait.ca/go/freebrowser" target="_blank" rel="noopener">Get RoxyBrowser here →</a>**
 
 ## Quick Answer
 
@@ -58,7 +56,7 @@ The 4.0.0 release (July 2026) added Chrome 150, faster startup, custom proxy sup
 
 Budget about 10 minutes for the whole process:
 
-1. Download the installer for your OS from the [official site](https://mrait.ca/go/freebrowser).
+1. Download the installer for your OS from the <a href="https://mrait.ca/go/freebrowser" target="_blank" rel="noopener">official site</a>.
 2. Run the installer and accept the defaults.
 3. Create or sign into an account.
 4. Wait for the browser components to download — this is the longest step, and a few minutes on first launch is normal.
@@ -151,9 +149,7 @@ Team members, workspaces, proxy traffic, and AI Agent credits cost extra. New us
 
 > ### Ready to scale past the free 5 profiles?
 > Grab a paid plan and drop in code **`0328SAQA`** at checkout for **30% off**.
-> **[Get RoxyBrowser and claim 30% off →](https://mrait.ca/go/freebrowser)**
->
-> *Affiliate link — we may earn a commission at no extra cost to you.*
+> **<a href="https://mrait.ca/go/freebrowser" target="_blank" rel="noopener">Get RoxyBrowser and claim 30% off →</a>**
 
 ## Responsible Use
 
