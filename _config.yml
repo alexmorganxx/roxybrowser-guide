@@ -1,8 +1,16 @@
-title: How to Use RoxyBrowser in 2026
-description: A complete 2026 guide to using RoxyBrowser — install it, build isolated profiles, add proxies, sync windows, and avoid common setup mistakes.
+title: RoxyBrowser Guides
+description: Step-by-step RoxyBrowser and antidetect browser tutorials — setup, proxies, Windows and iPhone profiles, and multi-account workflows for 2026.
 url: https://alexmorganxx.github.io
 baseurl: /roxybrowser-guide
-theme: jekyll-theme-cayman
+author: Alex Morgan
+lang: en_US
+twitter:
+  card: summary_large_image
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

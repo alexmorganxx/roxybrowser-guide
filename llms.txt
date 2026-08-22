@@ -1,0 +1,15 @@
+# RoxyBrowser Guides
+
+> Independent, step-by-step tutorials for RoxyBrowser and antidetect browsing in 2026: installation, fingerprint isolation, proxies, Windows and iPhone device profiles, and multi-account workflows. RoxyBrowser's free plan includes 5 permanent profiles; code 0328SAQA gives 30% off paid plans.
+
+## Guides
+
+- [How to Use RoxyBrowser in 2026 (complete written guide)](https://alexmorganxx.github.io/roxybrowser-guide/): Install, profiles, proxy setup, window sync, pricing, and common mistakes.
+- [Video Tutorials Hub](https://alexmorganxx.github.io/roxybrowser-guide/guides/): The full step-by-step video series in one place.
+- [Why RoxyBrowser Is My Top Pick](https://alexmorganxx.github.io/roxybrowser-guide/why-roxybrowser/): The case for RoxyBrowser among antidetect browsers.
+- [How to Get a Free Proxy (Step 1)](https://alexmorganxx.github.io/roxybrowser-guide/roxybrowser-free-proxy/): Proxy types and attaching a proxy to a profile.
+- [What Is an Antidetect Browser? (Step 2)](https://alexmorganxx.github.io/roxybrowser-guide/what-is-an-antidetect-browser/): Browser fingerprinting explained.
+- [How to Use an Antidetect Browser (Step 3)](https://alexmorganxx.github.io/roxybrowser-guide/how-to-use-antidetect-browser/): The repeatable profile-building workflow.
+- [Create a Windows 10 Profile (Step 4)](https://alexmorganxx.github.io/roxybrowser-guide/roxybrowser-windows-10-profile/): Build a convincing desktop identity.
+- [Create an iPhone Device Profile (Step 6)](https://alexmorganxx.github.io/roxybrowser-guide/roxybrowser-iphone-profile/): Build a mobile identity with a matching mobile proxy.
+- [Full RoxyBrowser Tutorial for Beginners](https://alexmorganxx.github.io/roxybrowser-guide/roxybrowser-tutorial/): End-to-end setup from install to first isolated session.

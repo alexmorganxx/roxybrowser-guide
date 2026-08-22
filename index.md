@@ -30,6 +30,7 @@ To use RoxyBrowser, download the installer for your OS, sign in, and let the bro
 - [Common mistakes](#common-setup-mistakes-to-avoid)
 - [Pricing](#roxybrowser-pricing-2026)
 - [FAQ](#faq)
+- [Video tutorials](#watch-the-video-series)
 
 ## What RoxyBrowser Actually Does
 
@@ -171,6 +172,18 @@ No tool can. Detection uses many signals beyond the browser, so responsible use 
 
 **Does RoxyBrowser work without a proxy?**
 Yes, profiles run fine without one — though a proxy is what gives each profile a distinct location.
+
+## Watch the Video Series
+
+Prefer to learn by watching? The full step-by-step video course lives on the **[RoxyBrowser video tutorials hub](/roxybrowser-guide/guides/)**, with each lesson on its own page:
+
+- [Why RoxyBrowser is my top pick](/roxybrowser-guide/why-roxybrowser/)
+- [How to get a free proxy (Step 1)](/roxybrowser-guide/roxybrowser-free-proxy/)
+- [What is an antidetect browser? (Step 2)](/roxybrowser-guide/what-is-an-antidetect-browser/)
+- [How to use an antidetect browser (Step 3)](/roxybrowser-guide/how-to-use-antidetect-browser/)
+- [Create a Windows 10 profile (Step 4)](/roxybrowser-guide/roxybrowser-windows-10-profile/)
+- [Create an iPhone device profile (Step 6)](/roxybrowser-guide/roxybrowser-iphone-profile/)
+- [Full RoxyBrowser tutorial for beginners](/roxybrowser-guide/roxybrowser-tutorial/)
 
 ## Related Reading
 
