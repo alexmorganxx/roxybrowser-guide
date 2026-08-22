@@ -1,0 +1,8 @@
+title: How to Use RoxyBrowser in 2026
+description: A complete 2026 guide to using RoxyBrowser — install it, build isolated profiles, add proxies, sync windows, and avoid common setup mistakes.
+url: https://alexmorganxx.github.io
+baseurl: /roxybrowser-guide
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
