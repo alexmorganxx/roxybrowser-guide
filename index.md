@@ -183,6 +183,7 @@ Prefer to learn by watching? The full step-by-step video course lives on the **[
 - [How to use an antidetect browser (Step 3)](/roxybrowser-guide/how-to-use-antidetect-browser/)
 - [Create a Windows 10 profile (Step 4)](/roxybrowser-guide/roxybrowser-windows-10-profile/)
 - [Create an iPhone device profile (Step 6)](/roxybrowser-guide/roxybrowser-iphone-profile/)
+- [Automate social media engagement with AI (Step 7)](/roxybrowser-guide/roxybrowser-social-media-automation/)
 - [Full RoxyBrowser tutorial for beginners](/roxybrowser-guide/roxybrowser-tutorial/)
 
 ## Related Reading

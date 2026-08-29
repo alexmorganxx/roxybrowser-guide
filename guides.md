@@ -19,7 +19,8 @@ permalink: /guides/
     { "@type": "ListItem", "position": 4, "url": "https://alexmorganxx.github.io/roxybrowser-guide/how-to-use-antidetect-browser/", "name": "How to Use an Antidetect Browser (Step 3)" },
     { "@type": "ListItem", "position": 5, "url": "https://alexmorganxx.github.io/roxybrowser-guide/roxybrowser-windows-10-profile/", "name": "Create a Windows 10 Profile (Step 4)" },
     { "@type": "ListItem", "position": 6, "url": "https://alexmorganxx.github.io/roxybrowser-guide/roxybrowser-iphone-profile/", "name": "Create an iPhone Device Profile (Step 6)" },
-    { "@type": "ListItem", "position": 7, "url": "https://alexmorganxx.github.io/roxybrowser-guide/roxybrowser-tutorial/", "name": "Full RoxyBrowser Tutorial for Beginners" }
+    { "@type": "ListItem", "position": 7, "url": "https://alexmorganxx.github.io/roxybrowser-guide/roxybrowser-tutorial/", "name": "Full RoxyBrowser Tutorial for Beginners" },
+    { "@type": "ListItem", "position": 8, "url": "https://alexmorganxx.github.io/roxybrowser-guide/roxybrowser-social-media-automation/", "name": "Automate Social Media Engagement with AI (Step 7)" }
   ]
 }
 </script>
@@ -43,6 +44,7 @@ Install, create a profile, add a proxy, and run your first isolated session — 
 4. **[How to Use an Antidetect Browser (Step 3)](/roxybrowser-guide/how-to-use-antidetect-browser/)** — the repeatable profile-building workflow.
 5. **[Create a Windows 10 Profile (Step 4)](/roxybrowser-guide/roxybrowser-windows-10-profile/)** — build a convincing desktop identity.
 6. **[Create an iPhone Device Profile (Step 6)](/roxybrowser-guide/roxybrowser-iphone-profile/)** — build a mobile identity with a matching mobile proxy.
+7. **[Automate Social Media Engagement with AI (Step 7)](/roxybrowser-guide/roxybrowser-social-media-automation/)** — use the AI Agent across isolated profiles, with a human in the loop.
 
 ## Prefer to read?
 
